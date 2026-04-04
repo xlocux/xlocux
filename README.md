@@ -17,7 +17,6 @@
 
 Security researcher. Automation developer. Bug bounty hunter.
 This is my personal repository — a collection of tools I build to break things and automate the grind.
-Everything here is built for the terminal. No GUIs. No nonsense.
 
 ---
 
